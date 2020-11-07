@@ -17,7 +17,7 @@ This repository is a template for the upcoming programming tasks for BA3 Game Pr
 
 # How to use
 
-First of all make sure that all of the mentioned tools have been instealled on your machine.
+First of all make sure that all of the mentioned tools have been installed on your machine.
 
 Create a fork from https://github.com/BigETI/BA3GameProgrammingTemplate
 
